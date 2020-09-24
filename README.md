@@ -36,4 +36,14 @@ Now that your file is accessible to the tool (by virtue of being in the "Input_3
 
 Return to Jupyter Notebook, to the "Kara's 360 Feedback.ipynb" file you've launched, and select "Run All" from the "Cells" drop-down menu:
 
+![](run_all.png)
+
+Notice that when you run the cells, the "Feedback" folder within the 360_Feedack parent directory populates with several files; the most important of which is the finished report, which will be auto-named with the convention "Lastname, Firstname_360 Report.pdf":
+
 ![](report.gif)
+
+Copy this report from the Feedback folder and email it to yourself.
+
+## 4: Protecting Airmen's Privacy Once You've Finished
+
+Now that you've generated and collected your Airman's 360 Feeback report, return to the feedback folder. Drag your Airman's folder—which will be named in the convention "Lastname, Firstname"—into the tash bin, and then right-click the bin and permanently delete the files therein by selecting "Empty Trash":
