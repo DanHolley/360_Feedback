@@ -51,3 +51,7 @@ Copy this report from the Feedback folder and email it to yourself.
 ## 4: Protecting Airmen's Privacy Once You've Finished
 
 Now that you've generated and collected your Airman's 360 Feeback report, return to the feedback folder. Drag your Airman's folder—which will be named in the convention "Lastname, Firstname"—into the tash bin, and then right-click the bin and permanently delete the files therein by selecting "Empty Trash":
+
+![](trash.gif)
+
+Once you've done that, if you have no other 360 Feedback reports to process, close Jupyter Notebook <b>without saving</b> by closing the terminal.
