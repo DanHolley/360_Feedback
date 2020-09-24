@@ -1,6 +1,6 @@
-# 360_Feedback
+# How to Use the 360 Feedback Report Tool
 
-Welcome to the 360 Feedback report-generator tool, created by MSgt Marszalek. This tool was built using Python 3.8.3 and is inteded to be run from the iLab, in Jupyter. 
+Welcome to the 360 Feedback report-generator tool, created by MSgt Marszalek. This tool was built using Python 3.8.3 and is intended to be run from the iLab, in Jupyter.
 
 This file explains how to use the tool, including:
 1. How to launch it
@@ -34,7 +34,9 @@ Finder -> Documents -> KMM -> 360_Feedback -> Input_360_Files
 
 Now that your file is accessible to the tool (by virtue of being in the "Input_360_Files" folder described in part 2), you're ready to generate your report.
 
-Return to Jupyter Notebook, to the "Kara's 360 Feedback.ipynb" file you've launched, and select "Run All" from the "Cells" drop-down menu:
+Return to Jupyter Notebook, to the "Kara's 360 Feedback.ipynb" file you've launched, and in the top cell only, change the value of the f_name variable to the exact name and extension of the Excel file you've uploaded:
+
+Once you've done that, simply select "Run All" from the "Cell" drop-down menu:
 
 ![](run_all.png)
 
