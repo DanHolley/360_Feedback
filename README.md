@@ -36,6 +36,8 @@ Now that your file is accessible to the tool (by virtue of being in the "Input_3
 
 Return to Jupyter Notebook, to the "Kara's 360 Feedback.ipynb" file you've launched, and in the top cell only, change the value of the f_name variable to the exact name and extension of the Excel file you've uploaded:
 
+![](name_change_animated.gif)
+
 Once you've done that, simply select "Run All" from the "Cell" drop-down menu:
 
 ![](run_all.png)
